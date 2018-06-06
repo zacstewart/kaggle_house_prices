@@ -4,14 +4,15 @@
 
 # Zac Stewart
 
-Legoland at Pardot
-
+- Legoland at Pardot
 - @zacstewart
 - zstewart@salesforce.com
 
 ![right autoplay loop mute fit](images/zacstewart.mov)
 
 ---
+
+![inline](images/prasad.jpeg)![inline](images/arris.jpeg)![inline](images/rusty.jpeg)
 
 Prasad Venkat, Arris Ray, Rusty Bailey
 
