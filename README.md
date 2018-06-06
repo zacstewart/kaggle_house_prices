@@ -13,6 +13,10 @@ Legoland at Pardot
 
 ---
 
+Prasad Venkat, Arris Ray, Rusty Bailey
+
+---
+
 ## What is machine learning?
 
 ^ This talk isn't quite a tutorial, but it does contain code examples.
